@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: V and X
+title: "tim banks: blog"
 description: > # this means to ignore newlines until "baseurl:"
  My manifesto, delivered in short bursts.
-baseurl: "http://blog.vandx.co/" # the subpath of your site, e.g. /blog
-url: "http://blog.vandx.co" # the base hostname & protocol for your site
+baseurl: "http://timbanks.github.io/" # the subpath of your site, e.g. /blog
+url: "http://timbanks.github.io" # the base hostname & protocol for your site
 twitter_username: elchefe
 github_username:  TimBanks
 
