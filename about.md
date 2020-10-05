@@ -8,4 +8,4 @@ Upon leaving the Marine Corps, he went on to work for hardware manufacturers and
 
 Today, Tim leverages his years in operations, DevOps, and Site Reliability Engineering to advise and consult with engineering groups in his current role. Tim is also a husband and a father of five children, as well as a competitive Brazilian Jiu-Jitsu practitioner. Currently, he is the reigning American National and Pan American Brazilian Jiu-Jitsu champion in his division.
 
-![tim posing on a bed with perman the dog](/images/bed.jpg)
+![tim posing on a bed with Herman the dog](images/bed.jpg)
