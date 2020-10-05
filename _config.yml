@@ -10,7 +10,7 @@ title: "tim banks: blog"
 description: > # this means to ignore newlines until "baseurl:"
  My manifesto, delivered in short bursts.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://timbanks.github.io" # the base hostname & protocol for your site
+url: "http://timbanks.github.io/" # the base hostname & protocol for your site
 twitter_username: elchefe
 github_username:  TimBanks
 
