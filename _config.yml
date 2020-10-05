@@ -1,20 +1,17 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Setup
+title:               'tim banks: blog'
+tagline:             'yet another blog'
+description:         'My manifesto, delivered in short bursts.'
+url:                 'http://timbanks.github.io'
+baseurl:             ''
+paginate:            5
+permalink:           pretty
 
-# Site settings
-title: "tim banks: blog"
-description: > # this means to ignore newlines until "baseurl:"
- My manifesto, delivered in short bursts.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://timbanks.github.io" # the base hostname & protocol for your site
-twitter_username: elchefe
-github_username:  TimBanks
-
-# Build settings
-gems: [jekyll-paginate]
-markdown: kramdown
-paginate: 1
+# About/contact
+author:
+  name:              Tim Banks
+  url:               https://twitter.com/elchefe
+  
+# Gems
+plugins:
+  - jekyll-paginate
