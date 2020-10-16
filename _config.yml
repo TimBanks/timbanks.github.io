@@ -1,7 +1,7 @@
 # Setup
 title:               'tim banks: blog'
-tagline:             'yet another blog'
-description:         'My manifesto, delivered in short bursts.'
+tagline:             '> 280 characters'
+description:         'stuff that's too long for twitter'
 url:                 'http://timbanks.github.io'
 baseurl:             ''
 paginate:            5
