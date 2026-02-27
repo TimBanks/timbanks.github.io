@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "blog: tim banks
+title: "blog: tim banks"
 email: tj.banks@gmail.com
 description: Thoughts, Reads, and Opinions
 baseurl: "" # the subpath of your site, e.g. /blog
