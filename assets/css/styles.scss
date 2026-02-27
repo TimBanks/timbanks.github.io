@@ -1,0 +1,60 @@
+---
+---
+
+// Custom color overrides — modern dark-ish scheme
+$brand-color:           #4A9EFF;
+$brand-color-light:     #74B8FF;
+$brand-color-dark:      #1A6BC4;
+
+$background-color:      #0F1117;
+$text-color:            #E2E8F0;
+$heading-color:         #FFFFFF;
+
+$link-base-color:       #4A9EFF;
+$link-visited-color:    #9B7FFF;
+$link-hover-color:      #74B8FF;
+
+$border-color:          #2D3748;
+$code-background-color: #1A1F2E;
+
+
+@import "minima";
+
+// About snippet on home page
+.about-snippet {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  padding: 2rem 0;
+
+  &__photo img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid $brand-color;
+  }
+
+  &__text h2 {
+    margin-top: 0;
+  }
+
+  &__link {
+    font-weight: bold;
+    text-decoration: none;
+  }
+}
+
+.section-divider {
+  border: none;
+  border-top: 1px solid $border-color;
+  margin: 1.5rem 0 2rem;
+}
+
+// Mobile: stack vertically
+@media (max-width: 600px) {
+  .about-snippet {
+    flex-direction: column;
+    text-align: center;
+  }
+}

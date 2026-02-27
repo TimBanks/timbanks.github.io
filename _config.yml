@@ -28,6 +28,9 @@ github_username:  timbanks
 
 # Build settings
 theme: minima
+
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
 

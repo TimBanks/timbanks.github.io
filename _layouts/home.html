@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+<!-- About Me Section -->
+<div class="about-snippet">
+  <div class="about-snippet__photo">
+    <img src="/images/tim_headshot.jpg" alt="Tim Banks" />
+  </div>
+  <div class="about-snippet__text">
+    <h2>Hi, I'm Tim</h2>
+    <p>
+       I've spent nearly 30 years in tech — from the server room to the cloud,
+      from scrappy startups to large enterprises — and I still find this industry
+      genuinely exciting. Today I work as a Principal Architect and Cloud Economist,
+      helping teams build systems that are resilient, cost-conscious, and actually
+      pleasant to operate.
+    </p>
+    <p>
+      I care deeply about sustainable engineering — not just the architecture, but
+      the people building it. That means advocating for practices that support
+      mental health, growth, and long-term careers, not just fast deploys.
+    </p>
+    <p>
+      I speak and sit on panels regularly, bring deep DevOps and SRE experience to
+      every conversation, and am known for being refreshingly direct. If you've
+      wondered what someone with 30 years of opinions and no remaining patience for
+      cargo-culting actually thinks about the industry — this is the blog for you.
+    </p>
+    <p>
+      Outside of tech, I'm a Brazilian Jiu-Jitsu black belt and 10-time international
+      champion. The mat teaches the same lessons the job does: fundamentals matter,
+      shortcuts bite you later, and the only way out is through.
+    </p>
+    <a href="/about/" class="about-snippet__link">More about me →</a>
+  </div>
+</div>
+
+<hr class="section-divider" />
+
+<!-- Posts (Minima's standard home layout) -->
+<div class="home">
+  {%- if site.posts.size > 0 -%}
+  <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+    <li>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+      {%- endif -%}
+    </li>
+    {%- endfor -%}
+  </ul>
+  {%- endif -%}
+</div>
