@@ -1,16 +1,27 @@
 # Setup
 title:               'tim banks: blog'
 tagline:             'yet another blog'
-description:         'My manifesto, delivered in short bursts.'
+description:         'Musings, Rants, and Ramblings'
 url:                 'http://timbanks.github.io'
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+theme: minima
+
+# Minima-specific settings
+minima:
+  skin: dark  # options: classic, rust, dark, auto, solarized, solarized-dark
+
+# Social links (appear in footer)
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/timbanks" }
+    - { platform: linkedin, user_url: "https://linkedin.com/in/timjb" }
 
 # About/contact
 author:
   name:              Tim Banks
-  url:               https://twitter.com/elchefe
+  url:               https://bsky.app/profile/elchefe.me
   
 # Gems
 plugins:
