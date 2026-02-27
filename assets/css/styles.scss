@@ -28,11 +28,12 @@ $code-background-color: #1A1F2E;
   padding: 2rem 0;
 
   &__photo img {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 3px solid $brand-color;
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center top; // favors the top of the image — better for headshots
+  border: 3px solid $brand-color;
   }
 
   &__text h2 {
