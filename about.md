@@ -19,6 +19,7 @@ title: About
 
 ### Video
 [DevOps Docuseries](https://youtube.com/playlist?list=PL2nlzNk2-VMFsAKN34LWULx0tyTrBSnLP&si=Rz6afDcLbKrA8Dra)
+
 [Content Highlights](https://youtube.com/playlist?list=PLX5Bk6wus3EIrN8ziQhoKEve3W1XML0ss&si=FVirJQSmZnmRzZ_5)
 
 ### Blog
@@ -37,12 +38,17 @@ title: About
 
 #### Screaming In The Cloud
 [The Democratization of Tech](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/the-democratization-of-tech-with-tim-banks/)
+
 [The Rise of the Agile Data Center](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/the-rise-of-the-agile-data-center-with-tim-banks/)
+
 [Working On The Whiteboard](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/working-on-the-whiteboard-from-the-start-with-tim-banks/)
 
 ## External Links
 
 [LinkedIn](https://www.linkedin.com/in/timjb/)
+
 [Blog](https://tim-banks.ghost.io)
+
 [Twitch](https://www.twitch.tv/tjbanks512)
+
 [YouTube](https://www.youtube.com/@elchefenegro)
