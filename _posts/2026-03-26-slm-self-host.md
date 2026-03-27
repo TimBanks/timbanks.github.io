@@ -5,8 +5,6 @@ date:   2026-03-26 10:00:00 +0600
 categories: tech
 ---
 
-# What's Old is New Again: The Quiet Burst of the AI Hype Bubble
-
 Time is a flat circle. At least, that's what it feels like when you've been in technology long enough to watch the same story play out over and over again with different buzzwords and weird company names. It's a bad time to be a neurodivergent patter-recognizer.
 
 Let's hop in the (slightly) way back machine to the early days of cloud computing. The pitch was intoxicating: stop spending capital on servers, stop maintaining expensive operations teams, stop worrying about capacity planning. Just hand it all to AWS or Azure or GCP and pay for what you use. Convenience, scale, and someone else's problem. Organizations stampeded toward managed services: databases, message queues, identity, observability, and anything else they could possibly offload the operational complexity to in exchange for a monthly invoice that seemed, at first, entirely reasonable.
