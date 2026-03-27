@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "What's Old is New Again: The Quiet Burst of the AI Hype Bubble "
+date:   2026-03-26 10:00:00 +0600
+categories: tech
+---
+
 # What's Old is New Again: The Quiet Burst of the AI Hype Bubble
 
 Time is a flat circle. At least, that's what it feels like when you've been in technology long enough to watch the same story play out over and over again with different buzzwords and weird company names. It's a bad time to be a neurodivergent patter-recognizer.
